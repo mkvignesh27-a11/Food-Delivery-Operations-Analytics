@@ -1,0 +1,58 @@
+# Food Delivery Operations Intelligence
+
+## Project Overview
+
+This project analyzes 50,000 food delivery orders to understand order performance, cancellations, delivery delays, customer behavior, and operational efficiency.
+
+## Tools & Technologies
+
+* Python — Data cleaning, exploratory data analysis (EDA), and analysis
+* SQL (MySQL) — Data validation, aggregation, and business queries
+* Power BI — Interactive dashboard and KPI visualization
+* Excel / CSV — Data preparation and storage
+
+## Key Performance Indicators
+
+* **Total Orders:** 50,000
+* **Completed Orders:** 49,132
+* **Cancelled Orders:** 868
+* **Cancellation Rate:** 1.74%
+* **Average Delivery Time:** 35.15 minutes
+* **Average Delivery Delay:** 4.23 minutes
+* **Late Delivery Rate:** 36.57%
+* **Total Order Value:** ₹1,908,475.05
+
+## Key Business Insights
+
+1. Driver unavailability accounted for 386 cancellations, or 44.47% of all cancellations.
+2. Average delivery time increased to 39.89 minutes under high traffic.
+3. Storm conditions had an average delivery time of 47.07 minutes.
+4. Orders travelling 8–12 km took an average of 54.87 minutes to deliver.
+5. The overall cancellation rate was 1.74%.
+
+## Recommendations
+
+* Improve driver allocation during peak hours.
+* Optimize delivery routes in high-traffic areas.
+* Adjust delivery estimates during adverse weather.
+* Improve planning for long-distance deliveries.
+* Monitor cancellation and late-delivery KPIs regularly.
+
+## Project Workflow
+
+1. ETL and data preparation
+2. Python exploratory data analysis
+3. SQL analysis and validation
+4. Power BI dashboard development
+5. Business insights and recommendations
+
+## Project Structure
+
+* `data/` — Dataset files
+* `python/` — Python analysis files
+* `sql/` — SQL queries
+* `powerbi/` — Power BI dashboard
+
+## Conclusion
+
+This project demonstrates how Python, SQL, and Power BI can be used together to analyze operational data and generate actionable business recommendations.
