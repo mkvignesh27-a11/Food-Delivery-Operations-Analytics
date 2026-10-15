@@ -59,6 +59,13 @@ An end-to-end Data Analytics project focused on analyzing food delivery operatio
 * Optimize delivery routes during high-traffic periods.
 * Adjust estimated delivery times during severe weather.
 * Review delivery strategies for longer-distance orders.
+* ## Project Guide
+
+[Read the English Project Guide](Food_Delivery_Operations_Analytics_Project_Guide_English.md)
+## Power BI Dashboard
+
+![Food Delivery Operations Intelligence Dashboard](food_delivery_dashboard.png)
+
 
 ## Conclusion
 
@@ -67,6 +74,3 @@ This project demonstrates the use of Python, MySQL, and Power BI to analyze food
 **Author:** Vignesh M
 **Role:** Aspiring Data Analyst
 
-## Power BI Dashboard
-
-![Food Delivery Operations Intelligence Dashboard](food_delivery_dashboard.png)
