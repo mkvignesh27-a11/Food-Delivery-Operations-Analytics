@@ -60,6 +60,15 @@ An end-to-end Data Analytics project focused on analyzing food delivery operatio
 * Adjust estimated delivery times during severe weather.
 * Review delivery strategies for longer-distance orders.
 * ## Project Guide
+* ## SQL Analysis
+
+SQL was used to analyze food delivery operations, order performance, cancellations, delivery delays, traffic, weather conditions, and city-wise performance.
+
+**SQL File:** [View SQL Analysis](food_delivery_analysis.sql)
+
+## Power BI Dashboard
+
+The dashboard provides insights into total orders, completed and cancelled orders, cancellation rate, average order value, delivery time, and late delivery performance.
 
 [Read the English Project Guide](Food_Delivery_Operations_Analytics_Project_Guide_English.md)
 ## Power BI Dashboard
