@@ -66,3 +66,7 @@ This project demonstrates the use of Python, MySQL, and Power BI to analyze food
 
 **Author:** Vignesh M
 **Role:** Aspiring Data Analyst
+
+## Power BI Dashboard
+
+![Food Delivery Operations Intelligence Dashboard](food_delivery_dashboard.png)
